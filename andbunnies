@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>Practice page about rabbits</head>
+<body>
+
+<h3>Let’s build the screenshot. Here is your text:</h3>
+
+<h1>All about Rabbits</h1>
+  <p>
+  Rabbits are the most adorable animals in the world.
+  </p>
+  <p>
+  I used to own rabbits, until they died.
+  </p>
+  <p>
+  Here's my favorite song about rabbits:
+  </p>
+  <p>
+  Little bunny Foo Foo<br>
+  Hopping through the forest<br>
+  Scooping up the field mice<br> 
+  And bopping them on the head<br> 
+  Down came the Good Fairy, and she said<br> 
+  "Little bunny Foo Foo<br> 
+  I don't want to see you<br> 
+  Scooping up the field mice<br> 
+  And bopping them on the head."<br>
+  </p>
+  <p>
+  Reasons that rabbits make great pets:
+  <ul>
+    <li>Furry</li>
+    <li><strong>Great listeners!</strong></li>
+    <li>They eat your extra carrots</li>
+  </ul>
+ </p>
+ <p>
+Most famous rabbits:
+  <ol>
+    <li>Bugs Bunny</li>
+    <li>Rabbit in the hat</li>
+  <ol>
+  <p>
+  My favorite kind of rabbit is a dwarf lop:
+  </p>
+
+  <h6>NOTE: The link goes to<br>
+   https://www.petplanet.co.uk/small_breed_profile.asp?sbid=6
+  </h6>
+</body>
+</html>
